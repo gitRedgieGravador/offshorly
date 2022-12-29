@@ -1,0 +1,9 @@
+@import './assets/css/index.css';
+
+.App {
+  text-align: center;
+}
+
+.line-5 {
+  letter-spacing: 10px !important;
+}
